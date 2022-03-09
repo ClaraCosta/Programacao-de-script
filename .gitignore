@@ -1,4 +1,5 @@
 *~
 *.bkp
 *.swp
-*.pyc
+*.py
+*a.out
