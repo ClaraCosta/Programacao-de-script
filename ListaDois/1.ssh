@@ -1,0 +1,6 @@
+echo -e "\n\033[01;37m\033[04;32mQuestão 1 - verificando existência de um arquivo\033[00;37m\n"
+
+echo -e '\nO arquivo "flamego existe neste diretório?\n'
+
+ls flamengo &> /dev/null && echo 'OK' || echo 'NAO'
+
