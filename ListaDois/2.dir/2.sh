@@ -26,4 +26,6 @@ for i in $a1 $a2 $a3 $a4;
 do
 	((wc -l < "$i" | > 1)) && echo O arquivo com mais linhas é ${1}
 done
-       
+
+echo Por que o jacaré tirou o jacarezinho da escola? Porque ele réptil de ano. 
+echo Pode admitir que essa foi especialmente horrível...
