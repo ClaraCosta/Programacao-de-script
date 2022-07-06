@@ -1,0 +1,117 @@
+  100  history 
+  101  sort -u historico.txt | uniq > saida.txt
+  102  ls
+  103  cat saida.txt 
+  104  rm saida.txt 
+  105  ls
+  106  vim 5.sh 
+  107  ./5.sh 
+  108  vim 5.sh 
+  109  ./5.sh 
+   10  /sbin/vboxconfig
+  110  cat historico-clean.txt 
+  111  history 
+  112  history | sort -u
+  113  history sort -u
+  114  history | sort -u | uniq
+  115  history | sort -u | uniq > historico-clean.txt 
+  116* 
+  117  history | sort -u | uniq > historico-clean.txt 
+   11  sumi
+   12  su
+   13  ls
+   14  nvm --version
+   15  nvm --help
+   16  node --version
+   17  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   18  nvm --version
+   19  nvm install 12
+    1  su
+   20  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh
+   21  nvm 
+   22  node -v
+   23  node --version
+   24  node -v
+   25  sudo apt-get install curl
+   26  curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+   27  sudo apt-get install -y nodejs
+   28  sudo apt-get install curl
+   29  code
+    2  nano /etc/default/grub
+   30  ping google.com
+   31  cd /media/ifpb/Ventoy/
+   32  ls
+   33  mkdir isa
+   34  cd isa/
+   35  vim aula-27-05-2022
+   36  docker 
+   37  docke run -it debian 
+   38  ls -la
+   39  dpkg --help
+    3  su
+   40  cd ..
+   41  ls
+   42  cd pro
+   43  cd Projetos/
+   44  l
+   45  ls
+   46  ./backup.sh 
+   47  ps -a
+   48  ps -au
+   49  ps -ax
+    4  su -
+   50  ps -aux
+   51  htop
+   52  ls
+   53  cd ..
+   54  ls
+   55  vim atividade
+   56  grep ifpb /etc/passwd
+   57  grep root /etc/passwd
+   58  find /etc/ -iname "root"
+   59  find /etc/ -iname "*root*"
+    5  R00T@Cm5T!
+   60  find /etc/ -iname "root"
+   61  find /etc/ -iname "*root*"
+   62  ls
+   63  python3 -m http.serve 9000
+   64  python3 -m http.server 9000
+   65  ip -c 
+   66  ip
+   67  ip link 
+   68  ip link show 
+   69  ip a
+    6  su -
+   70  ip -c a
+   71  python3 -m http.server 9000
+   72  su -
+   73  ls
+   74  vim 3.sh
+   75  ls
+   76  chmod +x 3.sh
+   77  ./3.sh 
+   78  vim 3.sh
+   79  vim 2.sh
+    7  su
+   80  vim num.txt
+   81  vim 2.sh 
+   82  chmod +x 2.sh 
+   83  ./2.sh 
+   84  vim 2.sh 
+   85  ./2.sh 
+   86  vim 2.sh 
+   87  ./2.sh 
+   88  history | sort
+   89  history | sort | uniq
+    8  sudo /sbin/vboxconfig
+   90  history | sort | uniq -u
+   91  vim 5.sh 
+   92  ./5.sh 
+   93  cat trash.txt 
+   94  vim 5.sh 
+   95  ./5.sh 
+   96  cat historico-clean.txt 
+   97  ls
+   98  vim 5.sh 
+   99  ./5.sh 
+    9  su -
